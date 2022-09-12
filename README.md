@@ -1,4 +1,4 @@
-# Logistic-Regression-with-a-Neural-Network-mindset
+**[Logistic-Regression-with-a-Neural-Network-mindset](https://github.com/Zahra-Bakhtiari/Logistic-Regression-with-a-Neural-Network-mindset/blob/main/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)**
 
 This repo covers bulding a logistic regression classifier to recognize cats. The notebook will include all the steps on how to do this with a Neural Network mindset. Vectorization is the core concept in the model development.
 
